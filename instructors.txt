@@ -1,0 +1,5 @@
+CSC101;Heys
+CSC102;Alvarado
+CSC103;Rich
+NET110;Burke
+COM241;Lee
